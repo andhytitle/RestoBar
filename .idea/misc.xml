@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/activity_dapur.xml" value="0.1" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/activity_fragment_home.xml" value="0.23550724637681159" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/activity_list_detail_menu.xml" value="0.5" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/activity_main.xml" value="0.23550724637681159" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/activity_menu_tab2.xml" value="0.17395833333333333" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/activity_no_meja.xml" value="0.1" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/fragment_detail_menu.xml" value="0.2418478260869565" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/fragment_menu_dessert.xml" value="0.2418478260869565" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/fragment_menu_makanan.xml" value="0.2418478260869565" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/fragment_menu_minuman.xml" value="0.2418478260869565" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/fragment_menu_tab.xml" value="0.1" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/item_list_dapur.xml" value="0.33" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/item_list_pesanan.xml" value="0.25" />
+        <entry key="..\:/MUH. ANDIKA RUSLI/Project Latihan Android Studio/RestoBar/app/src/main/res/layout/menu_data.xml" value="0.24094202898550723" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

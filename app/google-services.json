@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1073990949642",
+    "firebase_url": "https://restobarujk-default-rtdb.firebaseio.com",
+    "project_id": "restobarujk",
+    "storage_bucket": "restobarujk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073990949642:android:2b1ee4d3f6d1973f0b78f3",
+        "android_client_info": {
+          "package_name": "com.example.restobar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073990949642-p4ht2b7d5msjfvumktfle20ut0lpre33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9wyI90rkFnUGqZTuC39Anrz-Y5ztftTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073990949642-p4ht2b7d5msjfvumktfle20ut0lpre33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
